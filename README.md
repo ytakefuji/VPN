@@ -1,4 +1,5 @@
-# VPN server and VPN client (Windows 10)
+# VPN server (PR-500KI) and VPN client (Windows 10)
+<pre>
 1. VPN server using PR-500KI router
 1.1 click details button, then click vpn server setting
 1.2 click edit button, then enter:
@@ -26,4 +27,4 @@ right-click your vpn driver and open property.
 2.4 click detail button to enter shared key
 2.5 click chap and ms-chap
 2.6 click-IPv4 property  and unclick remote network by detail-button
-
+</pre>
